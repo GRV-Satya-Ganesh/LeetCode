@@ -7,9 +7,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [1894-merge-strings-alternately](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1205-defanging-an-ip-address](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1894-merge-strings-alternately](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
