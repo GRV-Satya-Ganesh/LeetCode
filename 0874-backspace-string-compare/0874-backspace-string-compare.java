@@ -1,43 +1,46 @@
 class Solution {
+
+    private int getNextValidIndex(String str, int i) {
+        int skip = 0;
+
+        while (i >= 0) {
+            if (str.charAt(i) == '#') {
+                skip++;
+                i--;
+            } 
+            else if (skip > 0) {
+                skip--;
+                i--;
+            } 
+            else break;
+        }
+
+        return i;
+    }
+
     public boolean backspaceCompare(String s, String t) {
-        int len1 = s.length();
-        int len2 = t.length();
 
-        StringBuilder sb1 = new StringBuilder();
-        int n = 0;
+        int i = s.length() - 1;
+        int j = t.length() - 1;
 
-        StringBuilder sb2 = new StringBuilder();
-        int m = 0;
+        while (i >= 0 || j >= 0) {
 
-        for(int i = 0; i < len1; i++){
-            char c = s.charAt(i);
-            if(c == '#'){
-                if(n == 0) continue;
-                sb1.deleteCharAt(n-1);
-                n--;
-                continue;
-            }
+            i = getNextValidIndex(s, i);
+            j = getNextValidIndex(t, j);
 
-            sb1.append(c);
-            n++;
+            if (i < 0 && j < 0)
+                return true;
+
+            if (i < 0 || j < 0)
+                return false;
+
+            if (s.charAt(i) != t.charAt(j))
+                return false;
+
+            i--;
+            j--;
         }
 
-        for(int i = 0; i < len2; i++){
-            char c = t.charAt(i);
-            if(c == '#'){
-                if(m == 0) continue;
-                sb2.deleteCharAt(m-1);
-                m--;
-                continue;
-            }
-
-            sb2.append(c);
-            m++;
-        }
-
-        System.out.println(sb1);
-        System.out.println(sb2);
-
-        return sb1.toString().equals(sb2.toString());
+        return true;
     }
 }
