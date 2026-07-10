@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0415-add-strings](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0415-add-strings) |
+| [0482-license-key-formatting](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0482-license-key-formatting) |
 | [0874-backspace-string-compare](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1205-defanging-an-ip-address](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1894-merge-strings-alternately](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1894-merge-strings-alternately) |
