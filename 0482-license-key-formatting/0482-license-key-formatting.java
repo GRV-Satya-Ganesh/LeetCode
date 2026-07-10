@@ -15,7 +15,7 @@ class Solution {
             sb.append(c);
             count += 1;
 
-            if(count == k && i != 0){
+            if(count == k){
                 sb.append('-');
                 count = 0;
             } 
