@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0874-backspace-string-compare](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0415-add-strings](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0415-add-strings) |
 | [0482-license-key-formatting](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0482-license-key-formatting) |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0874-backspace-string-compare) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
