@@ -15,8 +15,8 @@ class Solution {
 
             maxArea = (maxArea < area) ? area : maxArea;
 
-            if(height[left] <= height[right]) left++;
-            else right--;
+            while(left < right && height[left] <= length) left++;
+            while(left < right && height[right] <= length) right--;
         }
 
         return maxArea;
