@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [1205-defanging-an-ip-address](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1894-merge-strings-alternately](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2580-circular-sentence](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/2580-circular-sentence) |
 ## Math
 |  |
 | ------- |
