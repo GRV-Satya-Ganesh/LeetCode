@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1894-merge-strings-alternately](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2580-circular-sentence](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/2580-circular-sentence) |
+| [3379-score-of-a-string](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/3379-score-of-a-string) |
 ## Math
 |  |
 | ------- |
