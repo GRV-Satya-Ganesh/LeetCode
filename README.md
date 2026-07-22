@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0056-merge-intervals) |
 | [0204-count-primes](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0204-count-primes) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0926-find-and-replace-pattern](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0926-find-and-replace-pattern) |
 ## Sorting
 |  |
@@ -77,8 +78,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0048-rotate-image) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0011-container-with-most-water) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 <!---LeetCode Topics End-->
