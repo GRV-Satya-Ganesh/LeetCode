@@ -1,0 +1,34 @@
+class MyCalendar {
+
+    private List<List<Integer>> bookings = new ArrayList<>();
+
+    public MyCalendar() {
+        
+    }
+    
+    public boolean book(int startTime, int endTime) {
+        if(bookings.isEmpty()){
+            this.bookings.add(Arrays.asList(startTime, endTime));
+            return true;
+        }
+
+        for(int i = 0; i < bookings.size(); i++){
+            int listedStart = bookings.get(i).get(0);
+            int listedEnd = bookings.get(i).get(1);
+
+            if(!(endTime <= listedStart || startTime >= listedEnd)){
+                return false;
+            } 
+        }
+
+        this.bookings.add(Arrays.asList(startTime, endTime));
+
+        return true;
+    }
+}
+
+/**
+ * Your MyCalendar object will be instantiated and called as such:
+ * MyCalendar obj = new MyCalendar();
+ * boolean param_1 = obj.book(startTime,endTime);
+ */
