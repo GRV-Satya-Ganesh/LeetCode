@@ -1,9 +1,9 @@
 class MyCalendar {
 
-    private List<int[]> bookings = new ArrayList<>();
+    List<int[]> bookings = null;
 
     public MyCalendar() {
-        
+        bookings = new ArrayList<>();
     }
     
     public boolean book(int startTime, int endTime) {
