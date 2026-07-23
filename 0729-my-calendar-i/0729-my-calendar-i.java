@@ -1,6 +1,6 @@
 class MyCalendar {
 
-    private List<List<Integer>> bookings = new ArrayList<>();
+    private List<int[]> bookings = new ArrayList<>();
 
     public MyCalendar() {
         
@@ -8,20 +8,20 @@ class MyCalendar {
     
     public boolean book(int startTime, int endTime) {
         if(bookings.isEmpty()){
-            this.bookings.add(Arrays.asList(startTime, endTime));
+            this.bookings.add(new int[]{startTime, endTime});
             return true;
         }
 
         for(int i = 0; i < bookings.size(); i++){
-            int listedStart = bookings.get(i).get(0);
-            int listedEnd = bookings.get(i).get(1);
+            int listedStart = bookings.get(i)[0];
+            int listedEnd = bookings.get(i)[1];
 
             if(!(endTime <= listedStart || startTime >= listedEnd)){
                 return false;
             } 
         }
 
-        this.bookings.add(Arrays.asList(startTime, endTime));
+        this.bookings.add(new int[]{startTime, endTime});
 
         return true;
     }
