@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0053-maximum-subarray) |
 ## Array
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0056-merge-intervals) |
 | [0204-count-primes](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0204-count-primes) |
 | [0729-my-calendar-i](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0729-my-calendar-i) |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0729-my-calendar-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
