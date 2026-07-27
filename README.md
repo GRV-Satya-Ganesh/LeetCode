@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0118-pascals-triangle) |
 | [0204-count-primes](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0729-my-calendar-i](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0729-my-calendar-i) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0926-find-and-replace-pattern](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0926-find-and-replace-pattern) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Counting
 |  |
