@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0415-add-strings) |
 | [0482-license-key-formatting](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0482-license-key-formatting) |
 | [0874-backspace-string-compare](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -76,12 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0242-valid-anagram) |
 | [0926-find-and-replace-pattern](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0926-find-and-replace-pattern) |
 ## Enumeration
 |  |
