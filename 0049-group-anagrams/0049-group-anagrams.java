@@ -5,15 +5,11 @@ class Solution {
         
         for(String str: strs){
 
-            int n = str.length();
-            int[] freqArray = new int[26];
-            StringBuilder sb = new StringBuilder();
+            char[] arr = str.toCharArray();
 
-            for(int i = 0; i < n; i++) freqArray[str.charAt(i) - 'a'] += 1;
+            Arrays.sort(arr);
 
-            for(int i = 0; i < 26; i++) sb.append(freqArray[i]).append("#");
-
-            String key = sb.toString();
+            String key = new String(arr);
 
             if(mp.containsKey(key)) mp.get(key).add(str);
             else mp.put(key, new ArrayList<>(Arrays.asList(str)));
