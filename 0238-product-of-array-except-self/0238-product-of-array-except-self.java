@@ -3,17 +3,24 @@ class Solution {
         int n = nums.length;
         int[] answer = new int[n];
 
-        int prefix = 1;
-        for (int i = 0; i < n; i++) {
-            answer[i] = prefix;
-            prefix *= nums[i];
+        int[] left = new int[n];
+        int[] right = new int[n];
+
+        for(int i = 0; i < n; i++){
+
+            if(i == 0) left[i] = 1;
+            else left[i] = nums[i-1] * left[i-1];
+
         }
 
-        int suffix = 1;
-        for (int i = n - 1; i >= 0; i--) {
-            answer[i] *= suffix;
-            suffix *= nums[i];
+        for(int i = n-1; i >= 0; i--){
+
+            if(i == n-1) right[i] = 1;
+            else right[i] = nums[i+1] * right[i+1];
+
         }
+
+        for(int i = 0; i < n; i++) answer[i] = left[i]*right[i];
 
         return answer;
     }
