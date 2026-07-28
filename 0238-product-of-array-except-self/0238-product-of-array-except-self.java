@@ -3,21 +3,14 @@ class Solution {
         int n = nums.length;
         int[] answer = new int[n];
 
-        int[] left = new int[n];
         int rightProduct = 1;
 
-        for(int i = 0; i < n; i++){
+        answer[0] = 1;
+        for(int i = 1; i < n; i++) answer[i] = nums[i-1]*answer[i-1];
 
-            if(i == 0) left[i] = 1;
-            else left[i] = nums[i-1] * left[i-1];
-
-        }
-
-        for(int i = n-1; i >= 0; i--){
-
-            answer[i] = left[i]*rightProduct;
-            rightProduct *= nums[i];
-
+        for(int i = n-2; i >= 0; i--){
+            rightProduct *= nums[i+1];
+            answer[i] = answer[i]*rightProduct;
         }
 
         return answer;
