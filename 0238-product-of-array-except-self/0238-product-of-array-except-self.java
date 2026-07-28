@@ -4,7 +4,7 @@ class Solution {
         int[] answer = new int[n];
 
         int[] left = new int[n];
-        int[] right = new int[n];
+        int rightProduct = 1;
 
         for(int i = 0; i < n; i++){
 
@@ -15,12 +15,10 @@ class Solution {
 
         for(int i = n-1; i >= 0; i--){
 
-            if(i == n-1) right[i] = 1;
-            else right[i] = nums[i+1] * right[i+1];
+            answer[i] = left[i]*rightProduct;
+            rightProduct *= nums[i];
 
         }
-
-        for(int i = 0; i < n; i++) answer[i] = left[i]*right[i];
 
         return answer;
     }
