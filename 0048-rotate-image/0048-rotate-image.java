@@ -3,27 +3,24 @@ class Solution {
         int n = matrix.length;
 
         for(int i = 0; i < n; i++){
-            for(int j = i+1; j < n; j++){
-
+            for(int j = i; j < n; j++){
                 int temp = matrix[i][j];
                 matrix[i][j] = matrix[j][i];
                 matrix[j][i] = temp;
-
             }
         }
+        for(int i = 0; i < n; i++){
+            int l = 0;
+            int r = n-1;
+            while(l < r){
+                int temp = matrix[i][l];
+                matrix[i][l] = matrix[i][r];
+                matrix[i][r] = temp;
 
-        for(int k = 0; k < n; k++){
-            int i = 0;
-            int j = n-1;
-
-            while(i < j){
-                int temp = matrix[k][i];
-                matrix[k][i] = matrix[k][j];
-                matrix[k][j] = temp;
-
-                i++;
-                j--;
+                l++;
+                r--;
             }
         }
+        
     }
 }
