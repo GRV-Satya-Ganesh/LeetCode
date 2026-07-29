@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0874-backspace-string-compare](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0053-maximum-subarray) |
