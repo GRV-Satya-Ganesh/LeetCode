@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0874-backspace-string-compare](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0217-contains-duplicate) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0729-my-calendar-i](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0729-my-calendar-i) |
 ## Design
 |  |
