@@ -7,23 +7,22 @@ class Solution {
         int r = len-1;
 
         while(l < r){
-            char lChar = s.charAt(l);
-            char rChar = s.charAt(r);
-
+            
             while(l < len && !(Character.isLetterOrDigit(s.charAt(l)))) l++;
 
             while(r >= 0 && !(Character.isLetterOrDigit(s.charAt(r)))) r--;
 
             if(l < len && r >= 0){
-                rChar = s.charAt(r);
-                lChar = s.charAt(l);
+                char rChar = s.charAt(r);
+                char lChar = s.charAt(l);
+
+                if(lChar != rChar) return false;
+                
+                l++;
+                r--;
             }
             else break;
 
-            if(lChar != rChar) return false;
-
-            l++;
-            r--;
         }
 
         return true;
