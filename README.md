@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0909-stone-game](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0909-stone-game) |
 ## Simulation
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0118-pascals-triangle) |
+| [0909-stone-game](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0909-stone-game) |
 ## Array
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0729-my-calendar-i](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0729-my-calendar-i) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0909-stone-game](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0909-stone-game) |
 | [0926-find-and-replace-pattern](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [1603-running-sum-of-1d-array](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -191,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0268-missing-number) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
