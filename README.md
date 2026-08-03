@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0283-move-zeroes) |
 | [0874-backspace-string-compare](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0729-my-calendar-i](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0729-my-calendar-i) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
