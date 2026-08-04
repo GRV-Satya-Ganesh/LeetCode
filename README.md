@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0415-add-strings) |
 | [0482-license-key-formatting](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0482-license-key-formatting) |
 | [0874-backspace-string-compare](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0383-ransom-note) |
 | [0926-find-and-replace-pattern](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0926-find-and-replace-pattern) |
 ## Enumeration
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0383-ransom-note) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
