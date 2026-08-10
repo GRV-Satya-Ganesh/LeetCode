@@ -1,10 +1,24 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
         int n = nums.length;
-        int ele = 0;
+        int left = 0;
+        int right = n-1;
 
-        for(int i = 0; i < n; i++) ele ^= nums[i];
+        while(left < right){
+            int mid = left + (right - left + 1)/2;
 
-        return ele;
+            if(mid % 2 != 0) mid--;
+
+            // single can be present in the left part
+            if(nums[mid] != nums[mid+1]){
+                right = mid;
+            }
+            // single can be present in the right part
+            else{
+                left = mid+2;
+            }
+        }
+
+        return nums[left];
     }
 }
