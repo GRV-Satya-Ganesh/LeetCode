@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0874-backspace-string-compare](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [1603-running-sum-of-1d-array](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
 |  |
 | ------- |
