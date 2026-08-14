@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0482-license-key-formatting](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0482-license-key-formatting) |
 | [0874-backspace-string-compare](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0926-find-and-replace-pattern](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0926-find-and-replace-pattern) |
