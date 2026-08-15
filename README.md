@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0383-ransom-note) |
 | [0926-find-and-replace-pattern](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0926-find-and-replace-pattern) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0729-my-calendar-i) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -183,11 +186,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
@@ -195,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0383-ransom-note) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -228,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0882-peak-index-in-a-mountain-array](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+## Merge Sort
+|  |
+| ------- |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
