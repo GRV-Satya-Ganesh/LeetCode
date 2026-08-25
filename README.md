@@ -241,4 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
