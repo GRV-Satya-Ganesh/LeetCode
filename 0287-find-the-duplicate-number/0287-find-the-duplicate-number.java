@@ -5,10 +5,10 @@ class Solution {
         int slow = 0;
         int fast = 0;
 
-        do{
+        while(!(slow == fast && slow != 0)){
             slow = nums[slow];
             fast = nums[nums[fast]];
-        }while(slow != fast);
+        }
 
         int slow2 = 0;
         while(slow != slow2){
