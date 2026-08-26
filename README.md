@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [1205-defanging-an-ip-address](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1894-merge-strings-alternately](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2580-circular-sentence](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/2580-circular-sentence) |
 | [3379-score-of-a-string](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/3379-score-of-a-string) |
 ## Math
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0383-ransom-note) |
 | [0926-find-and-replace-pattern](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0926-find-and-replace-pattern) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0383-ransom-note) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
@@ -249,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
