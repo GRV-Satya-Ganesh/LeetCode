@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2580-circular-sentence](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/2580-circular-sentence) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3379-score-of-a-string](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/3379-score-of-a-string) |
 ## Math
 |  |
@@ -256,4 +257,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
