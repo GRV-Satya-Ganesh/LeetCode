@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0909-stone-game](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0909-stone-game) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0204-count-primes) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
 | ------- |
