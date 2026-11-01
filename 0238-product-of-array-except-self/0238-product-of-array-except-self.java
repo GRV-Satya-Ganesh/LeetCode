@@ -1,23 +1,21 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
+        // brute force - take left_prod array and right_prod array and then multiply both and return the answer
+
+        // optimal :
         int n = nums.length;
         int[] result = new int[n];
 
-        int[] prodLeft = new int[n];
-        int[] prodRight = new int[n];
-
-        prodLeft[0] = 1;
-        for(int i = 1; i < n; i++){
-            prodLeft[i] = prodLeft[i-1]*nums[i-1];
-        }
-
-        prodRight[n-1] = 1;
-        for(int i = n-2; i >= 0; i--){
-            prodRight[i] = prodRight[i+1]*nums[i+1];
-        }
-
+        int left_prod = 1;
         for(int i = 0; i < n; i++){
-            result[i] = prodLeft[i]*prodRight[i];
+            result[i] = left_prod;
+            left_prod *= nums[i];
+        }
+
+        int right_prod = nums[n-1];
+        for(int i = n-2; i >= 0; i--){
+            result[i] = right_prod*result[i];
+            right_prod *= nums[i];
         }
 
         return result;
