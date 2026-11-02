@@ -14,11 +14,6 @@ class Solution {
             hmap.get(key).add(word);
         }
 
-        List<List<String>> result = new ArrayList<>();
-        hmap.forEach((key,value) -> {
-            result.add(value);
-        });
-
-        return result;
+        return new ArrayList<>(hmap.values());
     }
 }
