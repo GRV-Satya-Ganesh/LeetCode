@@ -3,22 +3,15 @@ class Solution {
         HashMap<String, List<String>> hmap = new HashMap<>(); // to add the same anagram in their correspponding list
 
         for(String word : strs){
-            int[] freq = new int[26];
+            char[] wordArr = word.toCharArray();
+            Arrays.sort(wordArr);
 
-            for(int i = 0; i < word.length(); i++) freq[word.charAt(i) - 'a']++;
+            String key = new String(wordArr);
+            
+            if(!hmap.containsKey(key))
+                hmap.put(key, new ArrayList<>());
 
-            StringBuffer sb = new StringBuffer();
-            for(int i = 0; i < 26; i++) sb.append(freq[i]).append("#");
-
-            String key = sb.toString();
-
-            if(hmap.containsKey(key))
-                hmap.get(key).add(word);
-            else{
-                List<String> list = new ArrayList<>();
-                list.add(word);
-                hmap.put(key, list);
-            }
+            hmap.get(key).add(word);
         }
 
         List<List<String>> result = new ArrayList<>();
