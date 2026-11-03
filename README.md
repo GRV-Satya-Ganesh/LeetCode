@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0909-stone-game](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0909-stone-game) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
 | ------- |
