@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0874-backspace-string-compare](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## String
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0909-stone-game) |
 | [0926-find-and-replace-pattern](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0926-find-and-replace-pattern) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1603-running-sum-of-1d-array](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
 |  |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0729-my-calendar-i) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Design
 |  |
 | ------- |
