@@ -1,23 +1,27 @@
 class Solution {
     public int findTheDistanceValue(int[] arr1, int[] arr2, int d) {
-        int len1 = arr1.length;
-        int len2 = arr2.length;
-        int dist = 0;
+        // rejecting condition -> |arr1[i]-arr2[j]| <= d
+        // range becomes -> if element in arr2 (y) lies between [x-d, x+d] -> arr1[i] (x) will be rejected
 
-        // satisfy condition -> |arr1[i]-arr2[j]| > d
+        int count = 0;
+        Arrays.sort(arr2);
 
-        for(int n : arr1){
-            boolean isValid = true;
-            for(int m : arr2){
-                if(Math.abs(n-m) <= d){
-                    isValid = false;
-                    break;
-                }
+        for(int num : arr1){
+            int lowerBound = num - d;
+            int upperBound = num + d;
+
+            int low = 0; 
+            int high = arr2.length;
+            while(low < high){
+                int mid = (high - low)/2 + low;
+
+                if(arr2[mid] < lowerBound) low = mid+1;
+                else high = mid;
             }
 
-            if(isValid) dist++;
+            if(low == arr2.length || arr2[low] > upperBound) count++;
         }
 
-        return dist;
+        return count;
     }
 }
