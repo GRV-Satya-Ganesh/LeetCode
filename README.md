@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2833-count-zero-request-servers](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/2833-count-zero-request-servers) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2833-count-zero-request-servers](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/2833-count-zero-request-servers) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0383-ransom-note) |
 | [0926-find-and-replace-pattern](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2833-count-zero-request-servers](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/2833-count-zero-request-servers) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
@@ -279,5 +282,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2833-count-zero-request-servers](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/2833-count-zero-request-servers) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
