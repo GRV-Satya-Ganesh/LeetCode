@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0909-stone-game) |
 | [0926-find-and-replace-pattern](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0926-find-and-replace-pattern) |
+| [1396-count-servers-that-communicate](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1603-running-sum-of-1d-array](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0289-game-of-life) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [1396-count-servers-that-communicate](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1791-richest-customer-wealth](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Greedy
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0383-ransom-note) |
+| [1396-count-servers-that-communicate](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [1396-count-servers-that-communicate](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -286,4 +290,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2833-count-zero-request-servers](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/2833-count-zero-request-servers) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1396-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/GRV-Satya-Ganesh/LeetCode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
